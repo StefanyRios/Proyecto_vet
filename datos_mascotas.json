@@ -1,0 +1,22 @@
+[
+    {
+        "nombreMascotas":"Luna",
+        "nombreDueño":"Ana",
+        "cedulaDueño":"1213334",
+        "EdadMascota":"5 años",
+        "telefonoDueño":"310551545164",
+        "Especialidad":"Veterinaria Conductual",
+        "Medico":"Diego"
+     
+    },
+    {
+        "nombreMascotas":"Maily",
+        "nombreDueño":"Jorge",
+        "cedulaDueño":"54515145",
+        "EdadMascota":"5 meses",
+        "telefonoDueño":"310551545164",
+        "Especialidad":"Medicina General",
+        "Medico":"Daniel"
+
+    }
+]
